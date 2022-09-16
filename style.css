@@ -1,0 +1,84 @@
+body{
+    background-color: #FFEFD5 ;
+    color: #8B4513 ;
+    text-align: justify;
+    margin-top:0px ;
+    margin-right: 100px;
+    margin-bottom: 0px;
+    margin-left: 100px;
+}   
+
+#cim{
+    background-image: url('MicrosoftTeams-image\ \(3\).png');
+    padding: 10px;
+    border: 1px solid black;
+    background-size: cover;
+    margin-bottom: 40px;
+    
+}
+
+table,td,th{
+    width: 300px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    text-align: left;
+    
+
+}  
+
+th{
+    width: 120px;
+    text-align: center;
+}
+
+.doboz{
+    width: 150px;
+    height: 50px;
+    background-color: white;
+    color: black;
+    border: 2px solid lightblue;
+    list-style-image: url('chili-pepper-icon.gif');
+    margin-bottom: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#zold{
+    background-color: rgb(28, 209, 28);
+}
+
+#sarga{
+    background-color: rgb(216, 216, 59);
+}
+
+#piros{
+    background-color: red;
+}
+
+#lila{
+    background-color: rgb(212, 31, 212);
+}
+
+#bemutatas{
+    float: right;
+    width: 500px;
+    height: 100px;
+    width: 700px;
+    margin-left: 50px;
+}
+
+#csiposseg{
+    width: 500px;
+    height: 100px;
+    float: right;
+    margin-top: 150px;
+    width: 700px;
+}
+
+#fajtai{
+    margin-left: 30px;
+}
