@@ -22,8 +22,7 @@ table,td,th{
     border: 1px solid black;
     border-collapse: collapse;
     text-align: left;
-    
-
+    margin-left: 190px;
 }  
 
 th{
@@ -67,7 +66,6 @@ a{
     width: 500px;
     height: 100px;
     width: 700px;
-    margin-left: 50px;
 }
 
 #fajtai{
