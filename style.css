@@ -21,7 +21,6 @@ table,td,th{
     width: 300px;
     border: 1px solid black;
     border-collapse: collapse;
-    margin: auto;
     text-align: left;
     
 
@@ -69,14 +68,6 @@ a{
     height: 100px;
     width: 700px;
     margin-left: 50px;
-}
-
-#csiposseg{
-    width: 500px;
-    height: 100px;
-    float: right;
-    margin-top: 150px;
-    width: 700px;
 }
 
 #fajtai{
