@@ -100,12 +100,35 @@ table tr:nth-child(5) td:nth-child(2) {
 
 }
 
-.li:hover{
-    list-style: none;
-    text-decoration-line: none;
-    text-decoration-color: saddlebrown ;
-    
+.hatter{
+    background-color:papayawhip ;
 }
+
+.navhatter{
+    background-color:papayawhip ;
+}
+
+.gombhatter{
+    background-color: saddlebrown;
+    width: 40px;
+}
+
+.li{
+    color: saddlebrown;
+    text-decoration: none;
+    text-transform: none;
+
+}
+
+.li:hover{
+    text-decoration: none;
+    text-transform: none;
+    color: saddlebrown;
+}
+
+
+
+
 
 
 
