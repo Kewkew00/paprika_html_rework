@@ -6,7 +6,7 @@ body {
 }
 
 #fejlec {
-    background-image: url("../képek/sok.png");
+    background-image: url("sok.png");
     background-size: auto;
     padding: 1rem;
 }
@@ -39,7 +39,7 @@ body {
 
 
 #menu ul li {
-    list-style-image: url("../képek/MicrosoftTeams-image.png");
+    list-style-image: url("MicrosoftTeams-image.png");
     background-color: white;
     border: 1px solid cadetblue;
     padding: 10px;
