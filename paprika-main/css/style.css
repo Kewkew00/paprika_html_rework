@@ -1,8 +1,10 @@
 body {
-    background-color: papayawhip;
-    color: saddlebrown;
+    background: rgb(54,21,0);
+    background: linear-gradient(90deg, rgba(54,21,0,1) 0%, rgba(96,54,1,1) 100%);
+    color: #CC9544;
     max-width: 1000px;
     margin: auto;
+    text-align: justify;
 }
 
 #fejlec {
@@ -40,8 +42,9 @@ body {
 
 #menu ul li {
     list-style-image: url("../képek/MicrosoftTeams-image.png");
-    background-color: white;
-    border: 1px solid cadetblue;
+    background-color: #361500;
+    border: 1px solid #CC9544;
+    border-radius: 5px;
     padding: 10px;
     font-weight: bold;
     width: 200px;
@@ -50,19 +53,22 @@ body {
 
 #menu ul li a {
     text-decoration: none;
-    color: #000;
+    color: #CC9544;
 }
 
 table {
     width: 300px;
     margin: 20px auto auto auto;
     border-collapse: collapse;
+    
+    
 }
 
 table, th, tr, td {
-    border: 1px solid black;    
+    border: 1px solid #CC9544;  
     font-weight: bold;
     padding: 5px;
+    
 }
 
 table td:nth-child(2) {
@@ -71,19 +77,19 @@ table td:nth-child(2) {
 }
 
 table tr:nth-child(2) td:nth-child(2) {
-    background-color: greenyellow;
+    background-color: #1C0A00;
 }
 
 table tr:nth-child(3) td:nth-child(2) {
-    background-color: yellow;
+    background-color: #361500;
 }
 
 table tr:nth-child(4) td:nth-child(2) {
-    background-color: palevioletred;
+    background-color: #1C0A00;
 }
 
 table tr:nth-child(5) td:nth-child(2) {
-    background-color: plum; 
+    background-color: #361500; 
 }
 
 
@@ -101,20 +107,21 @@ table tr:nth-child(5) td:nth-child(2) {
 }
 
 .hatter{
-    background-color:papayawhip ;
+    background: rgb(54,21,0);
+    background: linear-gradient(90deg, rgba(54,21,0,1) 0%, rgba(96,54,1,1) 100%);
 }
 
 .navhatter{
-    background-color:papayawhip ;
+    background: rgb(54,21,0);
+    background: linear-gradient(90deg, rgba(54,21,0,1) 0%, rgba(96,54,1,1) 100%);
 }
 
 .gombhatter{
-    background-color: saddlebrown;
     width: 40px;
 }
 
 .li{
-    color: saddlebrown;
+    color: #CC9544;
     text-decoration: none;
     text-transform: none;
 
@@ -125,6 +132,7 @@ table tr:nth-child(5) td:nth-child(2) {
     text-transform: none;
     color: saddlebrown;
 }
+
 
 
 
