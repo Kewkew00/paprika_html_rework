@@ -133,6 +133,11 @@ table tr:nth-child(5) td:nth-child(2) {
     color: saddlebrown;
 }
 
+ul{
+    list-style: none;
+}
+
+
 
 
 
