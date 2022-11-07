@@ -60,6 +60,7 @@ table {
     width: 300px;
     margin: 20px auto auto auto;
     border-collapse: collapse;
+    border-radius: 5px;
     
     
 }
@@ -130,7 +131,7 @@ table tr:nth-child(5) td:nth-child(2) {
 .li:hover{
     text-decoration: none;
     text-transform: none;
-    color: saddlebrown;
+    color: #CC9544;
 }
 
 ul{
